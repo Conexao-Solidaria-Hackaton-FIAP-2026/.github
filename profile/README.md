@@ -16,7 +16,7 @@ Plataforma digital desenvolvida para a ONG Esperança Solidária, com foco em es
 
 ## Diagrama de Arquitetura
 
-![Diagrama de Arquitetura](./diagrama_arquitetura_conexao_solidaria.svg)
+![Diagrama de Arquitetura](../diagrama_arquitetura_conexao_solidaria.svg)
 
 ---
 
@@ -49,7 +49,7 @@ Plataforma digital desenvolvida para a ONG Esperança Solidária, com foco em es
 
 ## Justificativa — Escolha do Banco de Dados
 
-Consulte o documento: [justificativa-banco-de-dados.pdf](./JustificativaTecnicaEscolhaDoBancoDeDados.pdf)
+Consulte o documento: [justificativa-banco-de-dados.pdf](../JustificativaTecnicaEscolhaDoBancoDeDados.pdf)
 
 ---
 
